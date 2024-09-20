@@ -1,6 +1,6 @@
 ## Examining Your PC in Classroom.
 
-| Program Name | Manufacturer | Version | Software Type |
+# | Program Name | Manufacturer | Version | Software Type |
 | --- | --- | --- | --- |
 | Microsoft Teams | Microsoft | 2024 | Teams |
 | Google Chrome | Google | 129.0 | Web Browser |
