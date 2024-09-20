@@ -18,5 +18,5 @@
 ## Evolution of Personal Devices.
 | Type | Operating System | Storage Capacity | Available Storage |
 | --- | --- | --- | --- |
-| PC | Windows 10 | 119 GB | 66.3 GB |
+| PC | Windows 10 | 1TB | 800 GB |
 | Iphone | IOS 18 | 256 GB | 56 GB |
