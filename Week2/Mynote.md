@@ -7,4 +7,3 @@ Data is information that has been translated into a form that is efficient for m
 A system is a group of interacting or interrelated elements that act according to a set of rules to form a unified whole.
 
 ![image](https://github.com/user-attachments/assets/ad04050d-6892-4282-9d61-156ada451f91)
-
