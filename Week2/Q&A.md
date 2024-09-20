@@ -8,6 +8,7 @@
 | Microsoft Word | Microsoft | 2016 | Word Processor |
 
 ## Examining Your Mobile Phone.
+
 | App Name | Developer | Version | App Category |
 | --- | --- | --- | --- |
 | Uber | Uber Technologies, Inc. | v3.632.10005 | Transportation |
@@ -16,6 +17,7 @@
 | Netflix | Netflix, Inc. | 16.49.0 | Entertainment |
 
 ## Evolution of Personal Devices.
+
 | Type | Operating System | Storage Capacity | Available Storage |
 | --- | --- | --- | --- |
 | PC | Windows 10 | 1TB | 800 GB |
