@@ -1,10 +1,5 @@
 ## Examining Your PC in Classroom.
------------
-Google Chrome 
------------
-SAP Logon 
------------
-Android Studio 
------------
-Adobe Acrobat
------------
+
+| Program Name | Manufacturer | Version | Software Type |
+| ----------- | ---------- |---------- | ---------- |
+| Microsoft Teams | Microsoft | 2024 | Teams |
