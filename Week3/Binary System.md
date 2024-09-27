@@ -1,6 +1,6 @@
 # What is KB, MB, GB, TB, PB, ZB?
 
-|Byte|Conversion|
+|Byte|Conversion||
 |-|-|-|
 |KB|1024 B||
 |MB|1024 KB||
