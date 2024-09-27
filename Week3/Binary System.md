@@ -1,4 +1,5 @@
 # What is KB, MB, GB, TB, PB, ZB?
 
-| --- |
-| KB |
+|-|-|
+|KB| 1024 B |
+
