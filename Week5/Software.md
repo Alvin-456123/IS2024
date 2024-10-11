@@ -6,4 +6,4 @@
 |2|YouTube|Video Streaming and Educational Platform|Utilized for learning new skills, watching tutorials, and staying updated on trends in technology.|Google|
 |3|Gmail|Email Communication Tool|Primary tool for managing emails, scheduling, and organizing communication with clients and colleagues.|Google|
 |4|Netflix|Video Streaming and Educational Platform|Netflix offers a diverse library of movies, shows, and original content, making it easy to find something entertaining for every mood.|Netflix|
-|5|Google maps|Street Map, Satellite, Terrain, and Street View to help users navigate and exlore locations.|Google|
+|5|Google maps|Street Map, Satellite, Terrain, and Street View to help users navigate and exlore locations.|Easily navigate, find direcions, explore new places, and check real-time traffic or transit information.|Google|
